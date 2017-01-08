@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "611660920174",
+    "firebase_url": "https://chat-e7178.firebaseio.com",
+    "project_id": "chat-e7178",
+    "storage_bucket": "chat-e7178.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611660920174:android:edc69d3a9591057b",
+        "android_client_info": {
+          "package_name": "com.example.byonge.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611660920174-un6kal58tqhvj4fg4t09gfar9l8cb9ua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.byonge.chat",
+            "certificate_hash": "722EBBA570CA2A83FDF296253C48EABC41F97159"
+          }
+        },
+        {
+          "client_id": "611660920174-7t6i81tejlcd3ngkgbnhqq7qh8on4ai9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLC6dMXBeu952GNebipTBJN-O05ieBj1o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611660920174-7t6i81tejlcd3ngkgbnhqq7qh8on4ai9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
